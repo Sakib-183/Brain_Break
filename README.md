@@ -10,7 +10,7 @@ The game includes a user **registration and login system**. Only registered user
 - 🔐 User Registration and Login System  
 - 🎮 Seven Unique Brain Games  
 - 🧩 Puzzle-solving and Skill-based Challenges  
-- 📊 Score Tracking (coming soon)  
+- 📊 Score Tracking  
 - 🖥️ C++ Based Console Application  
 
 ---
